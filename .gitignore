@@ -8,5 +8,4 @@ draft/hrv_data.npy
 ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3/
 ptb-xl-data.npy
 ssl/
-!/*.npy
-!*.npy
+*.npy
