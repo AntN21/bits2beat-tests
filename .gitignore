@@ -9,3 +9,8 @@ ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3/
 ptb-xl-data.npy
 ssl/
 *.npy
+pymutlifracs/
+kymatio/
+transformation_results_hrv_chall2002.json
+transformation_results_hrv.json
+transformation_results.json
